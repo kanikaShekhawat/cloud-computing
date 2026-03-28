@@ -1,0 +1,2 @@
+public Ip Address:135.235.195.84
+static website access url for Q3:https://kanikastorag.z29.web.core.windows.net/
